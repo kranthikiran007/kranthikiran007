@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kranthikiran007
 - 👀 I’m interested in cyber security and ethical hacking
 - 🌱 I’m currently learning python,html,css
-- 💞️ I’m looking to collaborate on ISRO
+- 💞️ I’m looking to collaborate on linux
 - 📫 How to reach me mail me at kranthikiran43604@gmail.com
 
 <!---
